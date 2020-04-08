@@ -12,7 +12,7 @@ A primeira coisa que você deve fazer ao instalar Git é configurar seu nome de 
 
 Reiterando, você precisará fazer isso somente uma vez se tiver usado a opção --global, porque então o Git usará esta informação para qualquer coisa que você fizer naquele sistema. Se você quiser substituir essa informação com nome diferente para um projeto específico, você pode rodar o comando sem a opção --global dentro daquele projeto.
 
-# Casos de uso
+# SCENES
 
  - [x] Você deseja criar pontos na história da produção do seu projeto
 
