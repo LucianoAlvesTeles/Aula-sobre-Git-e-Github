@@ -40,7 +40,7 @@ Reiterando, você precisará fazer isso somente uma vez se tiver usado a opção
 * `git add`  // adiciona ou atualiza mudanças para irem para a linha do tempo
 * `git add .` // adiciona ou atualiza todas as mudanças para irem para a linha do tempo
 * `git commit -m "Nome"` // adiciona um ponto na linha do tempo
-* `git log` // visualiza os pontos na linha do tempo (commit), Pressione `q` para sair. 
+* `git log` // visualiza os pontos na linha do tempo (commit) 
 * `git status` // informa o estado das alterações do nosso projeto
 * `git show` // apresenta determinado ponto na história
 * `git branch` // gerenciar novas linhas do tempo
@@ -50,3 +50,4 @@ Reiterando, você precisará fazer isso somente uma vez se tiver usado a opção
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+* `q` // sair.
